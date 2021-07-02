@@ -1,0 +1,14 @@
+h1{
+    color: lightskyblue;
+}
+
+h3{
+    background-color: lightsteelblue;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    text-align: justify;
+}
